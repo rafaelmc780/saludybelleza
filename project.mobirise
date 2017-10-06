@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Salud Belleza y Dieta",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 51,
     "versionPublish": "4.3.2",
@@ -294,7 +294,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "5000",
+            "slides__autoplayInterval": "7000",
             "slides__showBullets": true,
             "slides": [
               {
