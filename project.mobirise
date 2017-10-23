@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Salud Belleza y Dieta",
-    "currentPage": "page1.html",
+    "currentPage": "page11.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 66,
     "versionPublish": "4.3.4",
@@ -5795,114 +5795,13 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><a href=\"http://urlgram.com/cdb8ba80\" target=\"_blank\"><b>¿Tiene una piel problemática?\n</b></a><br><br><div>5 bolsitas del tratamiento profesional para un curso de limpieza facial a fondo\n</div><div>\n</div><div>PUNTOS NEGROS GRANOS (ACNÉ) ESPINILLAS CICATRICES\n</div><div>El complejo bio-oxidante Neovitin ® para neutralizar el impacto negativo de los radicales libres del oxígeno\n</div><div>El extracto del cáñamo acuático (Bidens tripartita) para eliminar inestetismos de la piel de manera más rápida y aumentar la elasticidad de la misma\n</div><div>El caolín (arcilla blanca) para una limpieza del rostro más delicada</div><br><div><a href=\"http://urlgram.com/cdb8ba80\" target=\"_blank\"><b>Cómo funciona Black Mask\n</b></a></div><div>\n</div><div>Una fórmula eficaz para eliminar los inestetismos de la piel mundialmente reconocida.\n</div><div>\n</div><div>EL EFECTO GARANTIZADO EN EL PLAZO DE 2 SEMANAS.</div><br><div>EL CARBÓN DE BAMBÚ\n</div><div>\n</div><div>es un remedio poderoso para una limpieza a fondo de su piel. Las compuestos activos penetran en los poros de la epidermis y absorben todas las impurezas y las sustancias nocivas. Un tratamiento eficaz para los puntos negros y comedones.\n</div><div>EL CAOLÍN ESTIMULA EL FLUJO SANGUÍNEO\n</div><div>\n</div><div>y por lo tanto favorece regeneración de las células de la piel. Tiene un efecto suave abrasivo y actúa cómo un exfoliante y blanqueador delicado para la cutis.</div><br><div>EL COMPLEJO BIO-OXIDANTE NEOVITIN ®\n</div><div>\n</div><div>Tiene el efecto antiinflamatorio y regenerador. Los componentes activos disminuyen el efecto dañino de los radicales libres del oxígeno sobre las células de la piel y ralentiza el proceso del envejecimiento.\n</div><div>EL EXTRACTO DEL CÁÑAMO ACUÁTICO\n</div><div>\n</div><div>alivia irritación e inflamación, favorece una curación rápida, aporta mayor elasticidad de la piel y la suaviza.</div><br><div><a href=\"http://urlgram.com/cdb8ba80\" target=\"_blank\"><b>Modo de empleo Black Mask</b></a></div><br><div>PASO 1\n</div><div>\n</div><div>Aplicar la mascarilla en las áreas más afectadas de la piel haciendo una capa gruesa, evitando la zona alrededor de los ojos, cuero cabelludo y las áreas lesionadas.\n</div><div>\n</div><div>\n</div><div>PASO 2\n</div><div>\n</div><div>Dejar actuar durante 25 minutos. La mascarilla se seca y se vuelve elástica. En este período los componentes activos penetran profundamente en la epidermis y actúan.\n</div><div>\n</div><div>\n</div><div>PASO 3\n</div><div>\n</div><div>Suavemente quitar la lámina de la mascarilla con la mano. Quitar los restos enjuagando con el agua tibia. Emplear 3 veces a la semana.</div><br><div>¿ Por qué es peligroso tener la piel problemática?\n</div><div>\n</div><div><a href=\"http://urlgram.com/cdb8ba80\" target=\"_blank\"><b>ARTÍCULO DE WIKIPEDIA.ORG\n</b></a></div><div>\n</div><div>Una piel problemática se llama así por tener algúnos defectos de orígenes distintos, entre los cuales son las erupciones, manchas de pigmentación, cicatrices, manchas vasculares, acné, etc.\n</div><div>\n</div><div>Si reventar los granos (el acné), la piel sobre los mismos se rompe y la pus, o sea, las bacterias, los productos de la inflamación, las glóbulas blancas de la sangre (leucocitos) etc. manchan y contaminan las areas de la piel alrededor. Eso puede causar una propagación del proceso de inflamatorio. Como resultado se pueden formarse los abscesos en las capas más profundas de la piel, y puede multiplicarse su cantidad.</div><br><div>Las ventajas principales Black Mask\n</div><div>\n</div><div>UNA FÓRMULA REFORZADA BLACK MASK PARA ELIMINACIÓN DE LOS GRANOS (ACNÉ)\n</div><div>Los ingredientes 100% naturales\n</div><div>8 veces multiplicada la eficacia de las vitaminas y los minerales\n</div><div>El efecto garantizado\n</div><div>Olor agradable a perfume\n</div><div>El máximo efecto por un precio muy asequible\n</div><div>Fácil de aplicar y quitarse de una vez</div><br><div>Sólo hoy se puede realizar el pedido Black Mask con el descuento del 50%</div><br><div>78 €  39 €\n</div><div>Hasta el fin de la oferta quedan:</div><br><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><a href=\"http://urlgram.com/cdb8ba80\" target=\"_blank\"><b>¿Tiene una piel problemática?\n</b></a><br><br><div>5 bolsitas del tratamiento profesional para un curso de limpieza facial a fondo\n</div><div>\n</div><div>PUNTOS NEGROS GRANOS (ACNÉ) ESPINILLAS CICATRICES\n</div><div>El complejo bio-oxidante Neovitin ® para neutralizar el impacto negativo de los radicales libres del oxígeno\n</div><div>El extracto del cáñamo acuático (Bidens tripartita) para eliminar inestetismos de la piel de manera más rápida y aumentar la elasticidad de la misma\n</div><div>El caolín (arcilla blanca) para una limpieza del rostro más delicada</div><br><div><a href=\"http://urlgram.com/cdb8ba80\" target=\"_blank\"><b>Cómo funciona Black Mask\n</b></a></div><div>\n</div><div>Una fórmula eficaz para eliminar los inestetismos de la piel mundialmente reconocida.\n</div><div>\n</div><div>EL EFECTO GARANTIZADO EN EL PLAZO DE 2 SEMANAS.</div><br><div>EL CARBÓN DE BAMBÚ\n</div><div>\n</div><div>es un remedio poderoso para una limpieza a fondo de su piel. Las compuestos activos penetran en los poros de la epidermis y absorben todas las impurezas y las sustancias nocivas. Un tratamiento eficaz para los puntos negros y comedones.\n</div><div>EL CAOLÍN ESTIMULA EL FLUJO SANGUÍNEO\n</div><div>\n</div><div>y por lo tanto favorece regeneración de las células de la piel. Tiene un efecto suave abrasivo y actúa cómo un exfoliante y blanqueador delicado para la cutis.</div><br><div>EL COMPLEJO BIO-OXIDANTE NEOVITIN ®\n</div><div>\n</div><div>Tiene el efecto antiinflamatorio y regenerador. Los componentes activos disminuyen el efecto dañino de los radicales libres del oxígeno sobre las células de la piel y ralentiza el proceso del envejecimiento.\n</div><div>EL EXTRACTO DEL CÁÑAMO ACUÁTICO\n</div><div>\n</div><div>alivia irritación e inflamación, favorece una curación rápida, aporta mayor elasticidad de la piel y la suaviza.</div><br><div><a href=\"http://urlgram.com/cdb8ba80\" target=\"_blank\"><b>Modo de empleo Black Mask</b></a></div><br><div>PASO 1\n</div><div>\n</div><div>Aplicar la mascarilla en las áreas más afectadas de la piel haciendo una capa gruesa, evitando la zona alrededor de los ojos, cuero cabelludo y las áreas lesionadas.\n</div><div>\n</div><div>\n</div><div>PASO 2\n</div><div>\n</div><div>Dejar actuar durante 25 minutos. La mascarilla se seca y se vuelve elástica. En este período los componentes activos penetran profundamente en la epidermis y actúan.\n</div><div>\n</div><div>\n</div><div>PASO 3\n</div><div>\n</div><div>Suavemente quitar la lámina de la mascarilla con la mano. Quitar los restos enjuagando con el agua tibia. Emplear 3 veces a la semana.</div><br><div>¿ Por qué es peligroso tener la piel problemática?\n</div><div>\n</div><div><a href=\"http://urlgram.com/cdb8ba80\" target=\"_blank\"><b>ARTÍCULO DE WIKIPEDIA.ORG\n</b></a></div><div>\n</div><div>Una piel problemática se llama así por tener algúnos defectos de orígenes distintos, entre los cuales son las erupciones, manchas de pigmentación, cicatrices, manchas vasculares, acné, etc.\n</div><div>\n</div><div>Si reventar los granos (el acné), la piel sobre los mismos se rompe y la pus, o sea, las bacterias, los productos de la inflamación, las glóbulas blancas de la sangre (leucocitos) etc. manchan y contaminan las areas de la piel alrededor. Eso puede causar una propagación del proceso de inflamatorio. Como resultado se pueden formarse los abscesos en las capas más profundas de la piel, y puede multiplicarse su cantidad.</div><br><div>Las ventajas principales Black Mask\n</div><div>\n</div><div>UNA FÓRMULA REFORZADA BLACK MASK PARA ELIMINACIÓN DE LOS GRANOS (ACNÉ)\n</div><div>Los ingredientes 100% naturales\n</div><div>8 veces multiplicada la eficacia de las vitaminas y los minerales\n</div><div>El efecto garantizado\n</div><div>Olor agradable a perfume\n</div><div>El máximo efecto por un precio muy asequible\n</div><div>Fácil de aplicar y quitarse de una vez</div><br><div>Sólo hoy se puede realizar el pedido Black Mask con el descuento del 50%</div><br><br><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qyUShu7blJ",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
           "_anchor": "content9-1r"
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background": "url(@bg-value)"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#767676",
-              "font-weight": "300"
-            },
-            ".number-wrap": {
-              "color": "@labelsColor",
-              "border-color": "rgba(255, 255, 255, 0.15)",
-              "position": "relative",
-              "display": "inline-block",
-              "text-align": "center",
-              "padding": "5px 10px 13px 10px",
-              "margin": "0",
-              "min-width": "118px",
-              "border-radius": "2px",
-              "max-width": "100%"
-            },
-            ".number": {
-              "font-style": "normal",
-              "font-weight": "700",
-              "font-size": "55px",
-              "text-transform": "none",
-              "letter-spacing": "-2px",
-              "word-spacing": "0",
-              "line-height": "1.3",
-              "color": "@numbersColor"
-            },
-            ".period": {
-              "display": "block",
-              "padding-top": "2px",
-              "border-top": "1px solid rgba(0, 0, 0, 0.1)"
-            },
-            ".dot": {
-              "position": "absolute",
-              "top": "-10px",
-              "right": "-1em",
-              "width": "1em",
-              "display": "block",
-              "height": "83%",
-              "overflow": "hidden",
-              "font-style": "normal",
-              "font-weight": "700",
-              "font-size": "55px",
-              "line-height": "89.65px",
-              "text-transform": "none",
-              "letter-spacing": "0",
-              "word-spacing": "0",
-              "color": "@numbersColor"
-            },
-            ".countdown-cont": {
-              "max-width": "700px",
-              "margin": "0 auto"
-            },
-            "@media (max-width: 768px)": {
-              ".dot": {
-                "display": "none"
-              }
-            },
-            "@media (max-width: 543px)": {
-              ".number-wrap": {
-                "margin-bottom": "15px"
-              }
-            },
-            "@media (max-width: 550px)": {
-              ".col-xs-3": {
-                "padding-left": "0",
-                "padding-right": "0"
-              },
-              ".number-wrap": {
-                "min-width": "auto"
-              }
-            },
-            "@media (max-width: 440px)": {
-              ".number, .dot": {
-                "font-size": "40px"
-              }
-            },
-            "@media (max-width: 380px)": {
-              ".period": {
-                "font-size": "0.8rem"
-              }
-            }
-          },
-          "_name": "countdown1",
-          "_customHTML": "<section class=\"countdown1\" group=\"Countdowns\" plugins=\"countdown\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"text\" title=\"Countdown\" name=\"countdown\" value=\"2017/10/26\">\n        <input type=\"text\" inline title=\"Days\" name=\"daysCountdown\" value=\"Days\">\n        <input type=\"text\" inline title=\"Hours\" name=\"hoursCountdown\" value=\"Hours\">\n        <input type=\"text\" inline title=\"Minutes\" name=\"minutesCountdown\" value=\"Minutes\">\n        <input type=\"text\" inline title=\"Seconds\" name=\"secondsCountdown\" value=\"Seconds\">\n        <input type=\"color\" title=\"Numbers Color\" name=\"numbersColor\" value=\"#28262b\">\n        <input type=\"color\" title=\"Labels Color\" name=\"labelsColor\" value=\"#565656\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container \">\n        <h2 class=\"mbr-section-title pb-3 align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"></h2>\n        <h3 class=\"mbr-section-subtitle align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\"></h3>\n        \n    </div>\n    <div class=\"container countdown-cont align-center\">\n        <div title=\"{{daysCountdown}}\" class=\"daysCountdown\"></div>\n        <div title=\"{{hoursCountdown}}\" class=\"hoursCountdown\"></div> \n        <div title=\"{{minutesCountdown}}\" class=\"minutesCountdown\"></div> \n        <div title=\"{{secondsCountdown}}\" class=\"secondsCountdown\"></div>\n        <div class=\"countdown pt-5 mt-2\" data-due-date=\"{{countdown}}\"> \n        </div>\n    </div>\n</section>",
-          "_cid": "qyUUfrDulR",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "countdown1-1s"
         }
       ]
     }
